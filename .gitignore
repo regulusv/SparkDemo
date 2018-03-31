@@ -1,1 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/inspectionProfiles/
+project/target/streams/compile/compileIncSetup/
+spark-warehouse/
+src/test/
